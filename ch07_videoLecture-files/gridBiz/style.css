@@ -138,3 +138,15 @@ img {
         200px, 1fr
     ));
 }
+.portfolio img {
+    width: 100%;
+    box-shadow: var(--box-shadow);
+}
+/* footer */
+footer {
+    margin-top: 2rem;
+    background: var(--dark-color);
+    color: var(--light);
+    padding: 1rem;
+    text-align: center;
+}
